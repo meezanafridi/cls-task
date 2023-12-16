@@ -1,0 +1,63 @@
+body{
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    background-color: blue;
+}
+
+#welcome{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+#latest{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+section{
+    text-align: center;
+}
+#lorem{
+    color: black;
+}
+h2{
+    color: black;
+}
+h1#lorem{
+    box-sizing: 100px;
+    background-color: gray;
+    width: 300px;
+    padding: 50px;
+    border: 1px solid gray;
+    margin: 10px auto 10px auto;
+    text-align: left;
+}
+#feat{
+    color: black;
+    text-align: right;
+    background-color: gray;
+    width: 300px;
+    padding: 50px;
+    border: 1px solid gray;
+}
+
+#minim{
+    color: black;
+    box-sizing: 100px;
+    background-color: gray;
+    width: 300px;
+    padding: 50px;
+    border: 1px solid gray;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#the{
+    text-align: center;
+}
+#small{
+    text-align:center ;
+}
